@@ -3,7 +3,11 @@ Government of Canada Blockchain Codefest
 
 __Cryptocurrencies as enablers of Large Scale Criminal Activities__
 
-Files:
+__Files:__
+
+Anomalous Activity in the Bitcoin Blockchain.pdf - Explanatory Presentation
+BlockChain Features2.ipynb - Notebook producing the charts in the presentation
+BlockSci Demo.ipynb - Demo notebook testing the BlockSci software
 
 __Aim__
 
