@@ -5,9 +5,9 @@ __Cryptocurrencies as enablers of Large Scale Criminal Activities__
 
 __Files:__
 
-Anomalous Activity in the Bitcoin Blockchain.pdf - Explanatory Presentation
-BlockChain Features2.ipynb - Notebook producing the charts in the presentation
-BlockSci Demo.ipynb - Demo notebook testing the BlockSci software
+- Anomalous Activity in the Bitcoin Blockchain.pdf - Explanatory Presentation
+- BlockChain Features2.ipynb - Notebook producing the charts in the presentation
+- BlockSci Demo.ipynb - Demo notebook testing the BlockSci software
 
 __Aim__
 
@@ -19,7 +19,7 @@ All bitcoin transactions are stored anonymously in the bitcoin blockchain. Indiv
 
 __Approach__
 
-The BlockSci package for python allows the bitcoin blockchain to be indexed and accessed programmatically for feature extraction. Workflow is to develop a set of potential features, and use python tools  to examine look for outliers and examine suspect blocks or transactions. Please see the accompanying presentation for more details.
+The BlockSci package for python (see https://github.com/citp/BlockSci/ ) allows the bitcoin blockchain to be indexed and accessed programmatically for feature extraction. Workflow is to develop a set of potential features, and use python tools  to examine look for outliers and examine suspect blocks or transactions. Please see the accompanying presentation for more details.
 
 __So far:__ BlockSci up and running on AWS, validation against blockchain.info to look at some transactions
 Some demo code and output is posted here, but needs the BlockSci AMI running on Amazon AWS (or another install of BlockSci) in order to be run. Please get in touch if you need help setting this up.
